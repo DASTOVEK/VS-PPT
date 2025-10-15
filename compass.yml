@@ -1,0 +1,13 @@
+name: VS-PPT
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/3eb4d995-363f-4b4f-abe3-39b938d24921
+description: Productivity Power Tools - a set of Visual Studio extensions improving developer productivity.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
